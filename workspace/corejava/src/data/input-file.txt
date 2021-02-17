@@ -1,0 +1,1120 @@
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
+The streams that are character based are typically called something with "Reader" or "Writer". 
+The character based streams can read / write characters (like Latin1 or UNICODE characters). See the text Java Readers and Writers for more information about character based input and output.
